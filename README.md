@@ -1,3 +1,6 @@
 ﻿# Typescript
 ## Start
--- > npm run dev
+```bash
+npm run dev
+```
+
